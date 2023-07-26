@@ -5,7 +5,7 @@ public class RemoveElement {
 	public static void main(String[] args) 
 	{
 		
-		int[] nums = {3,2,2,3}; // 01222304
+		int[] nums = {3,2,2,3}; 
 		int val = 3;
 		String[] arr = new String[nums.length];
 		int c = 0;
